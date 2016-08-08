@@ -23,7 +23,7 @@ body {
 	background: url('/dirty-napkin.jpg') no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
-	background-image:url('/meditate.png');
+	background-image:url(/Images/meditate.png);
 	background-position: center;
 	}
 p { 
@@ -70,7 +70,7 @@ abbr {
 	}
 
 header h1 { 
-	background: transparent url(incense-stick-vector.jpg) no-repeat top left;
+	background: transparent url(Images/incense-stick-vector.jpg) no-repeat top left;
 	margin-top: 10px;
 	display: block;
 	width: 219px;
@@ -189,7 +189,7 @@ footer a:link, footer a:visited {
 	position: absolute; 
 	top: 0; 
 	right: 0;
-	background: black url(more.png) no-repeat left;
+	background: black url(Images/more.png) no-repeat left;
 	width: 64px;
 	-webkit-transition: width 2s; /* Safari 3.1 to 6.0 */
   transition: width 2s;
